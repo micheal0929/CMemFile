@@ -5,6 +5,8 @@
  *      Author: micheal
  */
 
+#include "CMemFile.h"
+
 
 
 
